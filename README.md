@@ -7,6 +7,10 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
+<img width="2160" height="1135" alt="image" src="https://github.com/user-attachments/assets/c126f2a7-553e-4df7-9e1d-7cee1c8eb42b" />
+
+## CALCULATIONS
+<img width="1080" height="930" alt="image" src="https://github.com/user-attachments/assets/2bdea8ca-27bb-4914-906a-877b2f31764a" />
 
 ## Graph
 
